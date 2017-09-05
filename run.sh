@@ -1,0 +1,1 @@
+docker run -it -p9119:8080 rameshr/opencmis-inmemory:1.1.0
